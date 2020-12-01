@@ -1,0 +1,233 @@
+
+mainUI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anim1
+  rotate: false
+  xy: 1, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+res_bg_main
+  rotate: false
+  xy: 1, 548
+  size: 200, 200
+  split: 30, 30, 30, 30
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btn_bank2
+  rotate: false
+  xy: 259, 878
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_bank2_down
+  rotate: false
+  xy: 1, 418
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_bank2_sel
+  rotate: false
+  xy: 389, 878
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_ind2
+  rotate: false
+  xy: 1, 288
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_ind2_down
+  rotate: false
+  xy: 519, 878
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_ind2_sel
+  rotate: false
+  xy: 1, 158
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_manage2
+  rotate: false
+  xy: 649, 878
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_manage2_down
+  rotate: false
+  xy: 1, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_manage2_sel
+  rotate: false
+  xy: 779, 878
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_prod2
+  rotate: false
+  xy: 259, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_prod2_down
+  rotate: false
+  xy: 389, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_prod2_sel
+  rotate: false
+  xy: 519, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_storage2
+  rotate: false
+  xy: 649, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_storage2_down
+  rotate: false
+  xy: 779, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_storage2_sel
+  rotate: false
+  xy: 203, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_sum2
+  rotate: false
+  xy: 333, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_sum2_down
+  rotate: false
+  xy: 463, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+btn_sum2_sel
+  rotate: false
+  xy: 593, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+res_rate_players_bg
+  rotate: false
+  xy: 723, 666
+  size: 120, 80
+  split: 31, 34, 30, 28
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+res_left_bg
+  rotate: false
+  xy: 909, 918
+  size: 100, 88
+  split: 18, 18, 18, 18
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+res_bg_topbar_label
+  rotate: false
+  xy: 203, 580
+  size: 140, 36
+  split: 21, 21, 16, 15
+  orig: 140, 36
+  offset: 0, 0
+  index: -1
+res_bg_window
+  rotate: false
+  xy: 131, 436
+  size: 60, 110
+  split: 22, 22, 70, 22
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+res_dyn_btn
+  rotate: false
+  xy: 909, 851
+  size: 100, 65
+  split: 30, 33, 25, 25
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+res_dyn_btn_down
+  rotate: false
+  xy: 909, 784
+  size: 100, 65
+  split: 30, 33, 25, 25
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+res_top_bar_bg
+  rotate: false
+  xy: 723, 614
+  size: 110, 50
+  split: 19, 21, 18, 18
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+res_chat_msg_bg
+  rotate: false
+  xy: 345, 566
+  size: 107, 50
+  split: 23, 24, 19, 19
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+bgDiscover
+  rotate: false
+  xy: 845, 682
+  size: 64, 64
+  split: 0, 0, 0, 0
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bgMainMenu
+  rotate: false
+  xy: 131, 370
+  size: 64, 64
+  split: 0, 0, 0, 0
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+closeIcon
+  rotate: false
+  xy: 1, 1
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
